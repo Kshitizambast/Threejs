@@ -1,0 +1,3 @@
+Three.js has a large number of primitives. Primitives are generally 3D shapes that are generated at runtime with a bunch of parameters.
+
+We also set the phong material's emissive property to yellow. A phong material's emissive property is basically the color that will be drawn with no light hitting the surface. Light is added to that color.
